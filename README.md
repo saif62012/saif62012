@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif62012" alt="saif62012" /></a> </p>
 
-- 🔭 I’m currently working on [Crogley Company](https://progley.com/)
+- 🔭 I’m currently working on [Progley Company](https://progley.com/)
 
 - 🌱 I’m currently learning **nodejs**
 
