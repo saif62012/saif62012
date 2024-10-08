@@ -1,10 +1,9 @@
 ![logo](https://github.com/saif62012/saif62012/blob/main/Computer%20Science%20Student.png)
 <h1 align="center">Hi 👋, I'm SAIF</h1>
 <h3 align="center">A passionate Wordpress and frontend developer from Pakistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif62012&label=Profile%20views&color=0e75b6&style=flat" alt="saif62012" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif62012" alt="saif62012" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif62012" alt="saif62012" /></a>  </p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Progley Company](https://progley.com/)
 
