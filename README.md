@@ -1,3 +1,4 @@
+![logo](https://github.com/saif62012/saif62012/blob/main/Computer%20Science%20Student.png)
 <h1 align="center">Hi 👋, I'm SAIF</h1>
 <h3 align="center">A passionate Wordpress and frontend developer from Pakistan</h3>
 
@@ -7,9 +8,11 @@
 
 - 🔭 I’m currently working on [Progley Company](https://progley.com/)
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 📫 How to reach me **saifullah62012@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dXC8JzVho6LXenEAe0eb6U81E9Mrn1Lu/view?usp=sharing](https://drive.google.com/file/d/1dXC8JzVho6LXenEAe0eb6U81E9Mrn1Lu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
